@@ -1,0 +1,3 @@
+gcc -o livecheck livecheck.c
+./livecheck
+Check time be long, wait patiently!
